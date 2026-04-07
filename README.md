@@ -20,6 +20,3 @@ Multithreading
 ⚙️ Requirements
 Python 3.7 or higher
 Tkinter (comes with Python)
-📥 Installation
-git clone https://github.com/AdarshaJash/VOIS-AICTE-Batch-3-Internship_March-2026-Cyber-Security-/tree/main
-cd nmap_portscan_gui
